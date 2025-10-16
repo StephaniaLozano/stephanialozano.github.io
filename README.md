@@ -1,8 +1,6 @@
 <div align="center">
-  <img height="150" src="https://github.com/StephaniaLozano/stephanialozano.github.io/blob/main/banner.jpg"  />
+  <img height="150" src="https://github.com/StephaniaLozano/stephanialozano.github.io/blob/main/Stefy.jpg"  />
 </div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/stephanialozano/" target="_blank">
@@ -37,15 +35,13 @@
 ###
 
 <p align="left">
-Soy una profesional con formación en <b>psicología</b> y una gran pasión por la <b>tecnología y la calidad del software</b>.  
-Mi experiencia en análisis del comportamiento humano me ha permitido desarrollar una mirada detallista, analítica y empática hacia los procesos de prueba y la experiencia del usuario.
+Soy una profesional en Tecnología en Informática apasionada por la <b>excelencia y el comportamiento humano,</b> lo que me ha permitido desarrollar una fuerte capacidad de <b> analítica, observadora y meticulosa.</b>
 <br><br>
-🔍 Actualmente cuento con experiencia en <b>pruebas manuales y automatizadas</b>, diseño y ejecución de casos de prueba, detección de bugs y validación de flujos funcionales.  
-💡 He trabajado con herramientas como <b>Selenium, Python, SQL, Postman y JIRA</b>, aplicando metodologías ágiles y buenas prácticas de aseguramiento de calidad.
+💡 Encontré en el <b>aseguramiento de la calidad del software</b> el punto perfecto para unir la precisión técnica con la resolución de problemas. Tengo experiencia práctica en <b>pruebas manuales y automatizadas,</b> diseño y ejecución de casos de prueba, detección de bugs y validación de flujos funcionales, utilizando herramientas como <b>Selenium, Python, SQL y Postman</b> bajo metodologías ágiles.
 <br><br>
-🌱 En constante aprendizaje para fortalecer mis habilidades técnicas y seguir creciendo como profesional en el área de <b>Quality Assurance</b>.
+🌱 Me motiva garantizar productos de alta calidad y brindar al usuario una experiencia confiable y satisfactoria.
 <br><br>
-⚡ En mi tiempo libre disfruto aprender cosas nuevas, analizar productos digitales y encontrar formas creativas de mejorar la experiencia del usuario.
+⚡ Soy <b>comprometida, analítica y orientada al detalle,</b> con gran capacidad de aprendizaje, adaptación y trabajo en equipo.
 </p>
 
 ###
