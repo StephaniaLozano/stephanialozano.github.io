@@ -1,17 +1,17 @@
 <div align="center">
-  <img height="150" src="https://github.com/StephaniaLozano/stephanialozano.github.io/banner para LinkedIn p  (1).jpg"  />
+  <img height="150" src="https://github.com/StephaniaLozano/stephanialozano.github.io/banner.jpg"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/steflozanoqa" target="_blank">
+  <a href="https://www.linkedin.com/in/stephanialozano/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/steflozanoqa" target="_blank">
+  <a href="https://github.com/StephaniaLozano" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
   </a>
-  <a href="mailto:steflozanoqa@gmail.com">
+  <a href="mailto:stephanialozanopardo@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
   </a>
 </div>
