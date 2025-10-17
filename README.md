@@ -118,7 +118,7 @@ Este trabajo me permitió optimizar pruebas funcionales y de UI, documentar hall
 
 <h4>🖼️ Capturas del proyecto:</h4>
 <p align="center">
-  <img src="https://github.com/StephaniaLozano/QA-Portfolio/blob/main/assets/urban-scooter.png" alt="Urban Scooter Project Screenshot" width="600"/>
+  <img src="https://raw.githubusercontent.com/StephaniaLozano/stephanialozano.github.io/main/UrbanScooter1.jpg" alt="Urban Scooter Project Screenshot" width="600"/>
 </p>
 
 <h3>🤖 Urban.Routes – Automatización del flujo completo de reserva</h3>
@@ -159,7 +159,7 @@ Entre las funcionalidades automatizadas se encuentran: selección de la tarifa <
 
 <h4>🖼️ Capturas del proyecto:</h4>
 <p align="center">
-  <img src="https://github.com/StephaniaLozano/UrbanRoutes/blob/main/capturas/urbanroutes-demo.png" alt="Captura Urban.Routes" width="600"/>
+  <img src="https://raw.githubusercontent.com/StephaniaLozano/stephanialozano.github.io/main/Urban-Routes.jpg" alt="Captura Urban.Routes" width="600"/>
 </p>
 
 <h2>🧪 Urban.Grocers – Automatización de pruebas para creación de kits de productos</h2>
@@ -185,14 +185,24 @@ Las pruebas incluyeron:
 
 <h3>💡 Aptitudes:</h3>
 <p>
-Python • Postman • API Testing • Automation • Token Auth • Modular Code • JSON Validation
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
+  <img src="https://img.shields.io/badge/API_Testing-2E8B57?style=for-the-badge&logo=swagger&logoColor=white" alt="API Testing Badge"/>
+  <img src="https://img.shields.io/badge/Automation-0078D7?style=for-the-badge&logo=selenium&logoColor=white" alt="Automation Badge"/>
+  <img src="https://img.shields.io/badge/Token_Auth-4B0082?style=for-the-badge&logo=auth0&logoColor=white" alt="Token Auth Badge"/>
+  <img src="https://img.shields.io/badge/Modular_Code-1E90FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Modular Code Badge"/>
+  <img src="https://img.shields.io/badge/JSON_Validation-F7DF1E?style=for-the-badge&logo=json&logoColor=black" alt="JSON Validation Badge"/>
 </p>
+
 
 <p>
 🔗 <strong>Enlace:</strong> <a href="https://github.com/StephaniaLozano/qa-project-Urban-Grocers-app-es.git">Repositorio GitHub</a>
 </p>
 
 <h3>🖼️ Capturas del proyecto:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StephaniaLozano/stephanialozano.github.io/main/Urban-Grocers-app.jpg" alt="Captura Urban.Routes" width="600"/>
+</p>
 
 ---
 
