@@ -14,11 +14,10 @@
   </a>
 </div>
 
-<h1 align="center">👋 ¡Hola, soy Stephania Lozano!</h1>
 
 <h3 align="center">💻 QA Tester | QA Manual | QA Automatización | QA Documentación</h3>
 
-<h3 align="left">👩‍💻 Sobre mí</h3>
+<h2 align="left">👩‍💻 Sobre mí</h2>
 
 <p align="left">
 Soy una profesional en Tecnología en Informática apasionada por la <b>excelencia y el comportamiento humano,</b> lo que me ha permitido desarrollar una fuerte capacidad de <b> analítica, observadora y meticulosa.</b>
