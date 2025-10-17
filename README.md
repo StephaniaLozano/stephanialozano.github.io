@@ -74,7 +74,7 @@ Soy una profesional en Tecnología en Informática apasionada por la <b>excelenc
       <tr><td>Base de Datos</td><td>PostgreSQL, SQL</td></tr>
       <tr><td>Control de versiones</td><td>Git, GitHub</td></tr>
       <tr><td>Comunicación</td><td>Discord, Slack</td></tr>
-      <tr><td>Documentación</td><td>README, Notion, Trello, Google Docs</td></tr>
+      <tr><td>Documentación</td><td>README, Notion, Trello, JIRA, Google Docs</td></tr>
     </tbody>
   </table>
 
