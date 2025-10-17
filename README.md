@@ -152,7 +152,7 @@ Entre las funcionalidades automatizadas se encuentran: selección de la tarifa <
 
 <h4>🔗 Enlace:</h4>
 <p>
-  <a href="https://github.com/StephaniaLozano/UrbanRoutes" target="_blank">
+  <a href="https://github.com/StephaniaLozano/qa-project-Urban-Routes-es.git" target="_blank">
     📁 <b>Repositorio GitHub</b>
   </a>
 </p>
@@ -189,7 +189,7 @@ Python • Postman • API Testing • Automation • Token Auth • Modular Cod
 </p>
 
 <p>
-🔗 <strong>Enlace:</strong> <a href="#">Repositorio GitHub</a>
+🔗 <strong>Enlace:</strong> <a href="https://github.com/StephaniaLozano/qa-project-Urban-Grocers-app-es.git">Repositorio GitHub</a>
 </p>
 
 <h3>🖼️ Capturas del proyecto:</h3>
