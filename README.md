@@ -12,6 +12,9 @@
   <a href="mailto:stephanialozanopardo@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
   </a>
+  <a href="https://drive.google.com/file/d/1ijTgg5VhnZCzQ88RQBzkDO4XN0OCe6oj/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20mi%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="25" alt="CV PDF Badge"  />
+  </a>
 </div>
 
 
@@ -29,26 +32,24 @@ Soy una profesional en Tecnología en Informática apasionada por la <b>excelenc
 ⚡ Soy <b>comprometida, analítica y orientada al detalle,</b> con gran capacidad de aprendizaje, adaptación y trabajo en equipo.
 </p>
 
-<h2>🧰 Tech Stack</h2>
-
-<h3>🧪 QA & Testing</h3>
-<p align="left">
+<h3 align="center">🧪 QA & Testing</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
 </p>
 
-<h3>📝 Gestión & Documentación</h3>
-<p align="left">
+<h3 align="center">📝 Gestión & Documentación</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DevTools" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<h3>💾 Bases de Datos & Análisis</h3>
-<p align="left">
+<h3 align="center">💾 Bases de Datos & Análisis</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
@@ -196,4 +197,9 @@ Python • Postman • API Testing • Automation • Token Auth • Modular Cod
 ---
 
 <p align="center">💬 Si quieres conocer más sobre mis proyectos o colaborar, ¡no dudes en contactarme!  
-<br>📧 <b>stephanialozanopardo@gmail.com</b></p>
+<br>📧 <b>stephanialozanopardo@gmail.com</b>
+<br>  
+<a href="https://drive.google.com/file/d/1ijTgg5VhnZCzQ88RQBzkDO4XN0OCe6oj/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20mi%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="25" alt="CV PDF Badge"  />
+</a>
+</p>
