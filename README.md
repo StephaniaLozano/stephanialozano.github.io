@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src=""/>
+  <img height="150" src="https://github.com/StephaniaLozano/stephanialozano.github.io/blob/main/Stefy.jpg"/>
 </div>
 
 <div align="center">
@@ -12,10 +12,6 @@
   <a href="mailto:stephanialozanopardo@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=steflozanoqa.steflozanoqa&"  />
 </div>
 
 <h1 align="center">👋 ¡Hola, soy Stephania Lozano!</h1>
@@ -81,7 +77,7 @@ Soy una profesional en Tecnología en Informática apasionada por la <b>excelenc
       <tr><td>Documentación</td><td>README, Notion, Trello, Google Docs</td></tr>
     </tbody>
   </table>
-</div>
+
 
 
 <h2>📂 Proyectos Destacados</h2>
@@ -125,6 +121,78 @@ Este trabajo me permitió optimizar pruebas funcionales y de UI, documentar hall
   <img src="https://github.com/StephaniaLozano/QA-Portfolio/blob/main/assets/urban-scooter.png" alt="Urban Scooter Project Screenshot" width="600"/>
 </p>
 
+<h3>🤖 Urban.Routes – Automatización del flujo completo de reserva</h3>
+
+<p>
+Este proyecto automatizó el flujo completo de reserva de taxi en la app web <b>Urban.Routes</b>, desde la configuración de la ruta hasta la confirmación del viaje, utilizando <b>Selenium WebDriver</b>.  
+Se validaron acciones clave como la selección de tarifa, ingreso de datos, pago con tarjeta y solicitud de extras, incluyendo la lógica de activación del botón de pago por pérdida de enfoque.
+</p>
+
+<p>
+Entre las funcionalidades automatizadas se encuentran: selección de la tarifa <b>“Comfort”</b>, ingreso de teléfono, adición de tarjeta de crédito (validando el flujo de activación del campo CVV por pérdida de enfoque), entre otras.
+</p>
+
+<h4>🌟 Resultados destacados:</h4>
+<ul>
+  <li>🔁 Automatización completa del flujo de reserva con validación de <b>elementos dinámicos</b>.</li>
+  <li>💳 Simulación de flujos de pago con verificación de la <b>activación de botones</b>.</li>
+  <li>🧪 Pruebas implementadas en <b>main.py</b> con estructura <b>Page Object Model (POM)</b> mediante <code>UrbanRoutesPage</code> y <code>TestUrbanRoutes</code>.</li>
+</ul>
+
+<h4>🧰 Aptitudes:</h4>
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Automated_Testing-FF6F00?style=for-the-badge&logo=testing-library&logoColor=white" alt="Automated Testing Badge"/>
+  <img src="https://img.shields.io/badge/Page_Object_Model-4B0082?style=for-the-badge" alt="POM Badge"/>
+  <img src="https://img.shields.io/badge/UI_Testing-0078D7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="UI Testing Badge"/>
+  <img src="https://img.shields.io/badge/XPath_%2F_Selectors-000000?style=for-the-badge" alt="XPath Badge"/>
+  <img src="https://img.shields.io/badge/Bug_Reporting-E4405F?style=for-the-badge&logo=bugatti&logoColor=white" alt="Bug Reporting Badge"/>
+</p>
+
+<h4>🔗 Enlace:</h4>
+<p>
+  <a href="https://github.com/StephaniaLozano/UrbanRoutes" target="_blank">
+    📁 <b>Repositorio GitHub</b>
+  </a>
+</p>
+
+<h4>🖼️ Capturas del proyecto:</h4>
+<p align="center">
+  <img src="https://github.com/StephaniaLozano/UrbanRoutes/blob/main/capturas/urbanroutes-demo.png" alt="Captura Urban.Routes" width="600"/>
+</p>
+
+<h2>🧪 Urban.Grocers – Automatización de pruebas para creación de kits de productos</h2>
+
+<p>
+Este proyecto automatizó la validación del proceso de creación de kits de productos en <strong>Urban.Grocers</strong>, utilizando su API documentada en Swagger. 
+Se diseñó una <strong>suite de pruebas</strong> enfocada en el campo <code>name</code>, abarcando múltiples escenarios con datos válidos e inválidos.
+</p>
+
+<p>
+Las pruebas incluyeron:
+<br>🔐 Autenticación mediante <code>authToken</code>.
+<br>📤 Envío de solicitudes <code>POST</code> autorizadas.
+<br>🧩 Validación dinámica de respuestas JSON.
+</p>
+
+<h3>📊 Resultados destacados:</h3>
+<ul>
+  <li>✅ Implementación de <strong>9 funciones de prueba automatizada</strong> cubriendo casos límite y equivalentes.</li>
+  <li>🔐 Manejo correcto de <strong>autenticación vía token</strong> y encabezados en API.</li>
+  <li>🧱 Arquitectura modular: <code>configuration.py</code>, <code>data.py</code>, <code>sender_stand_request.py</code>, <code>create_kit_name_kit_test.py</code>.</li>
+</ul>
+
+<h3>💡 Aptitudes:</h3>
+<p>
+Python • Postman • API Testing • Automation • Token Auth • Modular Code • JSON Validation
+</p>
+
+<p>
+🔗 <strong>Enlace:</strong> <a href="#">Repositorio GitHub</a>
+</p>
+
+<h3>🖼️ Capturas del proyecto:</h3>
 
 ---
 
